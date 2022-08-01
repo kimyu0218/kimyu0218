@@ -1,5 +1,6 @@
-[![Yujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyu0218&hide=stars&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyu0218&langs_count=3&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Yujeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyu0218&hide=stars&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyu0218)](https://solved.ac/kimyu0218/)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
