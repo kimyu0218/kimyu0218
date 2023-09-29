@@ -1,8 +1,8 @@
-<a href="https://opgc.me/#/users/kimyu0218" target="_blank"><img src="https://api.opgc.me/githubs/users/kimyu0218/tag/?theme=prism" /></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyu0218)](https://solved.ac/kimyu0218/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyu0218&layout=compact&theme=dark)
 <br/><br/>
 
+<!--
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>&nbsp 
 </p>
-
+-->
 <!--
 **kimyu0218/kimyu0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
