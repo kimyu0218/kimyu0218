@@ -22,6 +22,7 @@
 
 ![nodejs](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![nestjs](https://img.shields.io/badge/NestJS-%23E0234E?logo=nestjs&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-F2F4F9?logo=spring)
 ![springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot)
 ![docker](https://img.shields.io/badge/docker-1D63ED.svg?style=flat&logo=docker&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
