@@ -20,13 +20,8 @@
 
 ### Tech Stack
 
-![nodejs](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![nestjs](https://img.shields.io/badge/NestJS-%23E0234E?logo=nestjs&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-F2F4F9?logo=spring)
-![springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?logo=spring-boot)
-![docker](https://img.shields.io/badge/docker-1D63ED.svg?style=flat&logo=docker&logoColor=white)
-![aws](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![nginx](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![github-actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+[![be](https://skillicons.dev/icons?i=spring,nodejs,nestjs&theme=light)](https://skillicons.dev)
+
+[![be2](https://skillicons.dev/icons?i=docker,nginx,aws,githubactions&theme=light)](https://skillicons.dev)
+
+[![db](https://skillicons.dev/icons?i=mysql,redis,mongodb&theme=light)](https://skillicons.dev)
