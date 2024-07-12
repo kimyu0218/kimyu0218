@@ -11,7 +11,7 @@
 
 | Title | Date | Role | 
 | --- | --- | --- |
-| AI•실시간 화상 타로 상담 플랫폼, [마법의 소라고둥](https://github.com/boostcampwm2023/web09-MagicConch) | 2023.11 - 2024.03 | BE developer |
+| AI • 실시간 화상 타로 상담 플랫폼, [마법의 소라고둥](https://github.com/boostcampwm2023/web09-MagicConch) | 2023.11 - 2024.03 | BE developer |
 | 아트테크를 적용한 NFT 경매 플랫폼, [FinTribe](https://github.com/EwhaFinT/Fintribe-backend) | 2021.09 - 2022.06 | BE developer |
 
 <br />
