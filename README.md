@@ -1,12 +1,5 @@
 ## 김유정 *Yujeong Kim*
 
-<!--### Introduce
-*I am*
-
-*I like*
-
-*I want to be*-->
-
 ### Project
 
 | Title | Date | Role | 
