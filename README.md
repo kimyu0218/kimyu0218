@@ -1,6 +1,6 @@
 ## 김유정 *Yujeong Kim*
 
-### Project
+### Projects
 
 | Title | Date | Role | 
 | --- | --- | --- |
@@ -9,7 +9,7 @@
 
 <br />
 
-### Experience
+### Experiences
 
 | Organization | Date |
 | --- | --- |
