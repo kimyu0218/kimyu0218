@@ -4,7 +4,7 @@
 
 | Title | Period | Role | 
 | --- | --- | --- |
-| 누가 끝까지 완수하나? 친구랑 경쟁하는 목표 달성앱, [MISSION MATE](https://github.com/Nexters/goalpanzi-backend) | 2024.07 ~ | BE developer |
+| 친구랑 경쟁하는 목표 달성앱, [MISSION MATE](https://github.com/Nexters/goalpanzi-backend) | 2024.07 ~ | BE developer |
 | 글쓰기 효율을 높이는 서비스, [kopilot](https://github.com/kopilot2024/kopilot) | 2024.07 - 2024.08 | FE & BE developer |
 | AI • 실시간 화상 타로 상담 플랫폼, [마법의 소라고둥](https://github.com/boostcampwm2023/web09-MagicConch) | 2023.11 - 2024.03 | BE developer |
 | 아트테크를 적용한 NFT 경매 플랫폼, [FinTribe](https://github.com/EwhaFinT/Fintribe-backend) | 2021.09 - 2022.06 | BE developer |
