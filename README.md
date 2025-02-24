@@ -4,6 +4,7 @@
 
 | Title | Period | Role | 
 | --- | --- | --- |
+| 내 가치관을 알아가는 15일간의 여정, [Loopy](https://github.com/Nexters/Jaknaeso-server) | 2025.01 - ing | BE developer |
 | 친구랑 경쟁하는 목표 달성앱, [MISSION MATE](https://github.com/Nexters/goalpanzi-backend) | 2024.07 - ing | BE developer |
 | 글쓰기 효율을 높이는 서비스, [kopilot](https://github.com/kopilot2024/kopilot) | 2024.07 - 2024.08 | FE & BE developer |
 | AI • 실시간 화상 타로 상담 플랫폼, [마법의 소라고둥](https://github.com/boostcampwm2023/web09-MagicConch) | 2023.11 - 2024.03 | BE developer |
