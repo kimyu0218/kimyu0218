@@ -27,7 +27,7 @@
 
 ### Tech Stack
 
-[![be](https://skillicons.dev/icons?i=spring,nodejs,nestjs&theme=light)](https://skillicons.dev)
+[![be](https://skillicons.dev/icons?i=spring,nestjs&theme=light)](https://skillicons.dev)
 
 [![be2](https://skillicons.dev/icons?i=docker,nginx,aws,githubactions&theme=light)](https://skillicons.dev)
 
