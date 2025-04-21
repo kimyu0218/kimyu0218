@@ -29,6 +29,6 @@
 
 [![be](https://skillicons.dev/icons?i=spring,nestjs&theme=light)](https://skillicons.dev)
 
-[![be2](https://skillicons.dev/icons?i=docker,nginx,aws,githubactions&theme=light)](https://skillicons.dev)
+[![be2](https://skillicons.dev/icons?i=docker,nginx,aws,githubactions,terraform&theme=light)](https://skillicons.dev)
 
 [![db](https://skillicons.dev/icons?i=mysql,redis,mongodb&theme=light)](https://skillicons.dev)
